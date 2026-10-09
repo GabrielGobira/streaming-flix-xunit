@@ -127,7 +127,7 @@ Entre as práticas utilizadas estão:
 - Adicionar integração contínua para execução automática dos testes.
 - Evoluir as funcionalidades da aplicação.
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
 **Gabriel Gobira**, **Lorran Rodrigues**, **Gabriel Sena**
 
