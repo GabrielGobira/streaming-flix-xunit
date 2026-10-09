@@ -129,7 +129,7 @@ Entre as práticas utilizadas estão:
 
 ## 👨‍💻 Autores
 
-**Gabriel Gobira**, **Lorran Rodrigues**, **Gabriel Sena**
+**Gabriel Gobira**, **Gabriel Sena**, **Lorran Rodrigues**
 
 
 ## 📄 Licença
